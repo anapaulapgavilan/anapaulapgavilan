@@ -49,4 +49,3 @@ Think less "AI theater," more "one day onboarding with traceable decisions."
 - Open to collaboration on applied AI systems, agent orchestration, and high-impact internal tools.
 - GitHub profile: https://github.com/anapaulapgavilan
 
-
