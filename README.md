@@ -7,8 +7,8 @@ Think less "AI theater," more "one day onboarding with traceable decisions."
 
 ## What I do
 
-- Lead the AI area at Grupo PagaTodo, reporting directly to the CEO.
-- Build end-to-end AI agent systems for Legal, Compliance, Finance, and Operations.
+- Lead the AI area at Grupo PagaTodo.
+- Build end-to-end AI agent systems.
 - Turn complex workflows into production software with measurable business impact.
 
 ## Highlights
@@ -37,12 +37,6 @@ Think less "AI theater," more "one day onboarding with traceable decisions."
 
 - Languages: Python, C, C++
 - Focus: AI agent systems, product strategy, cloud-native implementation, and regulated environments
-
-## Beyond Work
-
-- Co-founded Delvenado, a venture for traditional Mazahua art.
-- Planted 250+ trees through Enlace Rural.
-- Former national-level showjumping rider (17 years in competition).
 
 ## Let's Connect
 
