@@ -61,13 +61,6 @@ Completed the Common Core while working full-time, building from scratch:
 - an HTTP web server
 - a full-stack real-time multiplayer web app
 
-## Community and Leadership
-
-- Invited lecturer at CIDE (Mexico) on system connectivity and data exchange in fintech contexts.
-- Co-founder of Delvenado, a venture commercializing traditional Mazahua art.
-- Planted 250+ trees through Enlace Rural (2021 - 2023).
-- Competed in showjumping for 17 years, nationally ranked for 7 years in Amateur High.
-
 ## Technical Focus
 
 - Python, C, C++
